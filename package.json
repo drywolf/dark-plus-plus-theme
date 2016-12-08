@@ -1,0 +1,26 @@
+{
+	"name": "dark-plus-plus-theme",
+	"displayName": "Dark++ Theme",
+	"description": "A fork of the official VS Code Dark+ theme but with just about 10% more awesome",
+	"version": "0.0.3",
+	"publisher": "DryWolf",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/drywolf/dark-plus-plus-theme.git"
+	},
+	"engines": {
+		"vscode": "^0.10.6"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark++",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-plus-plus.tmTheme"
+			}
+		]
+	}
+}
