@@ -3,10 +3,10 @@
 	"displayName": "Dark++ Theme",
 	"description": "A fork of the official VS Code Dark+ theme but with just about 10% more awesome",
 	"icon": "img/vscode_dark_plus_plus_logo.svg",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "DryWolf",
 	"keywords": [
-		"plus", "React", "jsx", "tsx", "contrast"
+		"dark++", "React", "jsx", "tsx", "contrast"
 	],
 	"repository": {
 		"type": "git",
