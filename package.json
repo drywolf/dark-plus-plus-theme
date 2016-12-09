@@ -2,8 +2,12 @@
 	"name": "dark-plus-plus-theme",
 	"displayName": "Dark++ Theme",
 	"description": "A fork of the official VS Code Dark+ theme but with just about 10% more awesome",
-	"version": "0.0.4",
+	"icon": "img/vscode_dark_plus_plus_logo.svg",
+	"version": "0.0.5",
 	"publisher": "DryWolf",
+	"keywords": [
+		"dark", "plus", "++", "React", "React.js", "jsx", "tsx", "xml", "attribute", "property", "value", "contrast"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/drywolf/dark-plus-plus-theme.git"
