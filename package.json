@@ -6,7 +6,7 @@
 	"version": "0.0.5",
 	"publisher": "DryWolf",
 	"keywords": [
-		"dark", "plus", "++", "React", "React.js", "jsx", "tsx", "xml", "attribute", "property", "value", "contrast"
+		"plus", "React", "jsx", "tsx", "contrast"
 	],
 	"repository": {
 		"type": "git",
